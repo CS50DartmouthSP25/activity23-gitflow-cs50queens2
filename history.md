@@ -1,6 +1,5 @@
 # History
 
-**class listings** 
 ---
 **HIST005** _History of the Prem_
 > Study the origins and history of the Premier Football League.  
