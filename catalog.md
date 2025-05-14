@@ -10,6 +10,6 @@
 
 [History](history.md) - Department chair: <miharlin1>
 
-[Mathematics](math.md) - Department chair: <github username>
+[Mathematics](math.md) - Department chair: <Rhein0712>
 
 ---
